@@ -6,4 +6,9 @@ Move Member-number() to memberN()
 
 Move Member-age() to memberA()
 Move Member-height() to memberH()
-Move Member-retirement() to memberR()
+
+Move Member-WEIGHT() to memberW()
+
+Move Member-DRINKS() to memberD()
+
+Move Member-EATS() to memberE()
