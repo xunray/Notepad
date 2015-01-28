@@ -1,0 +1,4 @@
+Move 0 to numberics
+Move today() to currentdate()
+Move Name() to member-name()
+Move Member-number() to memberN()
