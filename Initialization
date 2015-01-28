@@ -12,3 +12,9 @@ Move Member-WEIGHT() to memberW()
 Move Member-DRINKS() to memberD()
 
 Move Member-EATS() to memberE()
+
+move Member-wife() to member-dependent1()
+
+move Member-son() to member-dependent2()
+
+move Member-daughter() to member-dependent3()
