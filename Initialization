@@ -12,3 +12,7 @@ Move Member-WEIGHT() to memberW()
 Move Member-DRINKS() to memberD()
 
 Move Member-EATS() to memberE()
+
+move Member-characters() to print-display()
+
+
